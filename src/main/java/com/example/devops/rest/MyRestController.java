@@ -9,7 +9,7 @@ public class MyRestController {
 	
 	@RequestMapping("/hi")
 	public String sayHello() {
-		return " Welcome To Devops Practice.......";
+		return " Welcome To Devops with AWS Practice............";
 	}
 
 }
